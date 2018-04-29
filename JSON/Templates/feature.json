@@ -1,0 +1,17 @@
+{
+    "name":"text", // name displayed in text prompts. may be left blank
+    "description":"text", // the text displayed when this feature is inspected
+    "connection": // this field can be left blank
+    [
+        "room", // a room defined in the "Rooms" folder
+        "portal" // a portal defined in the "Portals" folder
+    ],
+    "npcs": // this field can be left blank
+    [
+        // contains a list of NPCs defined in the "NPCs" folder
+    ],
+    "items": // this field can be left blank
+    [
+        // contains a list of items defined in the "Items" folder
+    ]
+}

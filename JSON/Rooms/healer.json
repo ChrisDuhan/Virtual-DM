@@ -1,0 +1,16 @@
+{
+    "name":"Corkie's Concoctions",
+    "description":"text",
+    "connections":
+    {
+        "east":"town"
+    },
+    "npcs":
+    [
+        "healer"
+    ],
+    "features":
+    [
+        "cauldron"
+    ]
+}
