@@ -1,0 +1,17 @@
+{
+    "name":"Mayor Leng's House",
+    "description":"text",
+    "connections":
+    {
+        "southwest":"town"
+    },
+    "npcs":
+    [
+        "mayor",
+        "assistant"
+    ],
+    "features":
+    [
+        "bust"
+    ]
+}

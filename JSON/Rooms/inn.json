@@ -1,0 +1,17 @@
+{
+    "name":"Ol' Boar Inn",
+    "description":"text",
+    "connections":
+    {
+        "southeast":"town"
+    },
+    "npcs":
+    [
+        "barkeep",
+        "bar_patrons"
+    ],
+    "features":
+    [
+        "gambling"
+    ]
+}
