@@ -107,10 +107,10 @@
 			"buildings": {
 				"Sunless Citadel": {
 					"rooms": {
-						"Ledge": {"visited": 0, "active NPCs": 0, "doors": {"N": {"connected Room": "Dark Ravine", "appearance": "open", "locked": 0, "trapped": 0}, "S": {"connected Room": "Switchback Stairs", "appearance": "open", "locked": 0, "trapped": 0}, "file": "./Rooms/ledge.json"},
-						"Switchback Stairs": {"visited": 0, "active NPCs": 0, "doors": {"N": {"connected Room": "Ledge", "appearance": "open", "locked": 0, "trapped": 0}, "S": {"connected Room": "Crumbled Courtyard", "appearance": "open", "locked": 0, "trapped": 0}, "file": "./Rooms/switchback_stairs.json"}, 
-						"Crumbled Courtyard": {"visited": 0, "active NPCs": 0, "doors": {"E": {"connected Room": "Switchback Stairs", "appearance": "open", "locked": 0, "trapped": 0}, "W": {"connected Room": "Tower Shell", "appearance": "wooden", "locked": 0, "trapped": 0}, "file": "./Rooms/crumbled_courtyard.json"},
-						"Tower Shell": {"visited": 0, "active NPCs": 0, "doors": {"E": {"connected Room": "Crumbled Courtyard", "appearance": "open", "locked": 0, "trapped": 0}, "NW": {"connected Room": "null", "appearance": "open", "locked": 0, "trapped": 0}, "S": {"connected Room": "null", "appearance": "wooden", "locked": 0, "trapped": 1}, "NW": {"connected Room": "null", "appearance": "open", "locked": 0, "trapped": 0} "file": "./Rooms/tower_shell.json"}
+						"Ledge": {"file": "./Rooms/ledge.json"},
+						"Switchback Stairs": {"file": "./Rooms/switchback_stairs.json"}, 
+						"Crumbled Courtyard": {"file": "./Rooms/crumbled_courtyard.json"},
+						"Tower Shell": {"file": "./Rooms/tower_shell.json"}
 					},
 					"appearance": {}
 				}

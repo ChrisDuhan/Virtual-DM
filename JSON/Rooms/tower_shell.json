@@ -1,5 +1,32 @@
 {
 	"description": "This circular area is cobbled with cracked granite, upon which sprawl four goblins, all apparently slain in combat. One stands with its back against the western wall, the killing spear still skewering it and holding it upright. Three wooden doors lead off from this area. Above, a hollow tower of loose masonry reaches 30 feet, but the intervening floors and stairs are gone, except for a couple of crumbled ledges.",
 	"interactables": {},
-	"features": {}
+	"features": {},
+	"visited": 0,
+	"active NPCs": 0,
+	"doors": {
+		"E": {
+			"connected Room": "Crumbled Courtyard",
+			"appearance": "open",
+			"locked": 0,
+			"trapped": 0
+		},
+		"NW": {
+			"connected Room": null,
+			"appearance": "open",
+			"locked": 0,
+			"trapped": 0
+		},
+		"S": {
+			"connected Room": null,
+			"appearance": "wooden",
+			"locked": 0,
+			"trapped": 1
+		},
+		"NW": {
+			"connected Room": null,
+			"appearance": "open",
+			"locked": 0,
+			"trapped": 0
+		}
 }
