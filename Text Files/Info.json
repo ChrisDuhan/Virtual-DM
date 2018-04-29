@@ -1,7 +1,7 @@
 {
-	"locations": [
+	"locations": {
 		"Oakhurst": {
-			"buildings": [
+			"buildings": {
 				"Tavern": {"name": "The Apple Blossom", "type": "Bar"}, 
 				"Inn": {"name": "Ol' Boar Inn", "type": "Inn"}, 
 				"General Store": {"name": "Kerowyn's", "type": "Merchant"}, 
@@ -11,8 +11,8 @@
 				"Healers House": {"name": "Corkie's Concoctions", "type": "Merchant"}, 
 				"Merchants House": {"name": "Hucrele Home", "type": "House"}, 
 				"Well": {"name": "Well", "type": "Misc"}
-			], 
-			"people": [
+			}, 
+			"people": {
 				"Vurnor Leng": {
 					"race": "Human",
 					"gender": "Male",
@@ -73,10 +73,10 @@
 					"role": "Barkeep",
 					"appearance": ""
 				}
-			], 
+			}, 
 			"connectedLocations": ["Old Road", "New Road"],
 			"appearance": {},
-			"description": ""
+			"description": "./oakhurst.txt"
 		}, 
 		"Old Road": {
 			"connectedLocations": ["Oakhurst", "Dark Ravine"],
@@ -94,21 +94,21 @@
 			"description": "./darkRavine.txt"
 		},
 		"Sunless Citadel": {
-			"buildings": [
+			"buildings": {
 				"Sunless Citadel": {
-					"rooms": [
-						"Ledge": {"connectedLocations": ["Dark Ravine", "Switchback Stairs"], "description": "./ledge.txt"},
-						"Switchback Stairs": {"connectedLocations": ["Ledge", "Crumbled Courtyard"], "description": "./switchbackStairs.txt"}, 
-						"Crumbled Courtyard": {"connectedLocations": ["Switchback Stairs", "Tower Shell"], "description": "./crumbledCourtyard.txt"},
-						"Tower Shell": {"connectedLocations": ["Crumbled Courtyard", null, null, null], "description": "./towerShell.txt"}
-					],
+					"rooms": {
+						"Ledge": {"visited": 0, "active NPCs": 0, "doors": {"N": {"connected Room": "Dark Ravine", "appearance": "open", "locked": 0, "trapped": 0}, "S": {"connected Room": "Switchback Stairs", "appearance": "open", "locked": 0, "trapped": 0}, "description": "./ledge.txt"},
+						"Switchback Stairs": {"visited": 0, "active NPCs": 0, "doors": {"N": {"connected Room": "Ledge", "appearance": "open", "locked": 0, "trapped": 0}, "S": {"connected Room": "Crumbled Courtyard", "appearance": "open", "locked": 0, "trapped": 0}, "description": "./switchbackStairs.txt"}, 
+						"Crumbled Courtyard": {"visited": 0, "active NPCs": 0, "doors": {"E": {"connected Room": "Switchback Stairs", "appearance": "open", "locked": 0, "trapped": 0}, "W": {"connected Room": "Tower Shell", "appearance": "wooden", "locked": 0, "trapped": 0}, "description": "./crumbledCourtyard.txt"},
+						"Tower Shell": {"visited": 0, "active NPCs": 0, "doors": {"E": {"connected Room": "Crumbled Courtyard", "appearance": "open", "locked": 0, "trapped": 0}, "NW": {"connected Room": "null", "appearance": "open", "locked": 0, "trapped": 0}, "S": {"connected Room": "null", "appearance": "wooden", "locked": 0, "trapped": 1}, "NW": {"connected Room": "null", "appearance": "open", "locked": 0, "trapped": 0} "description": "./towerShell.txt"}
+					},
 					"appearance": {}
 				}
-			],
+			},
 			"connectedLocations": ["Dark Ravine"],
 			"appearance": {},
 			"description": ""
 			
 		}
-	]
+	}
 }
