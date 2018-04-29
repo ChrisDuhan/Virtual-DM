@@ -1,6 +1,6 @@
 {
     "name": "General Store",
-    "description": "A pleasent, musty aroma greets you as you stride through the door, likely a mixture of slightly aged materials that are stacked on low shelves and hanging from racks. There is plenty of light coming in from a section of the roof that has been propped open with a long pole. The bright light shows the age of the floorboards, with the shinyness of the age worn surfaces reflecting a mellowed light at you.",
+    "description": "A pleasant, musty aroma greets you as you stride through the door, likely a mixture of slightly aged materials that are stacked on low shelves and hanging from racks. There is plenty of light coming in from a section of the roof that has been propped open with a long pole. The bright light shows the age of the floorboards, with the shinyness of the age worn surfaces reflecting a mellowed light at you.",
     "connections":
     {
         "west":"town"

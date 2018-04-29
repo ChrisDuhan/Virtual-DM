@@ -1,6 +1,6 @@
 {
     "name":"Mayor Leng's House",
-    "description":"text",
+    "description":"Easily the largest house in the town, and even then surrounded by a large porch, on which there sits a man in a new green tunic, holding a long stemmed pipe and dictating to a thin young man in a scholars robe, bespectacled and writing calmly, pausing occasionally to refill his quill. The porch has wide windows looking into what appears to be a great hall of sorts, with nice chairs and tables decorated with hides and flora. The porch itself is wide, with plenty of room for entertaining, rocking chairs and low tables are at several spots. near the sunnier side of the porch, a small barrel of mead sits in a stand with several mugs upside down near it. About ten feet away in the shade, a chessboard is set up and currently in use, though the players are nowhere to be seen.",
     "connections":
     {
         "southwest":"town"

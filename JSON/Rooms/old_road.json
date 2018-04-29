@@ -1,6 +1,6 @@
 {
 	"name":"The Old Road",
-    "description":"text",
+    "description":"You turn at the pelor's store and walk down an obvious but overgrown trail, till you reach the edge of the town's fenced in lands. At this point you see a slightly faded parchment attached to a plank, approaching, you read it: 'By order of the mayor of Oakhurst, all citizens of Oakhurst are prohibited from going beyond the edge of the ravine, for the safety of the town. All travelers be warned, danger lies in the ravine.' It is signed with a heavy hand and there was obviously a seal on it that has since melted.",
     "connections":
     {
         "northeast":"town"

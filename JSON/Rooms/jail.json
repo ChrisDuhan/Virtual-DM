@@ -1,6 +1,6 @@
 {
-    "name":"Oakhurst Jail",
-    "description":"text",
+    "name":"Oakhurst Gaol",
+    "description":"While not the largest building in town, it is the only one that is all stone. A two story, rectangular building, with a thick gate out front, and bars covering the only two visible windows, it's easy to know what the builings purpose is, even before you're close enough to read the faded sign next to the gate: 'Oakhurst Gaol'. A woman in light chainmail armour stands watching you from the gate.",
     "connections":
     {
         "south":"town"

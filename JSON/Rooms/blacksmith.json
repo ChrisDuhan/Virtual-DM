@@ -1,6 +1,6 @@
 {
     "name":"Lutgher's Smithy",
-    "description":"text",
+    "description":"You heard the smithy well before you saw any sign other than the curls of coal smoke rising over the town. The ring of hammer on metal was a telltale sign, and the slightly acrid smell of coking coal as you came closer only further confirmed the location. It's a fairly small shop and house combo, with a thick stone wall protecting the house from the forge, which is at one side of an open work area. An awning provides shade to the blacksmith, who looks like he's pure muscle, and broad even for a dwarf. Different type of metal of varying shaps and sizes are stacked on shelves in the work area, though with no apparent order to them. An enormous pile of raw coal sits in a walled trough near the forge, and you can see a smaller pile coking nearer the fire, thin wisps of smokey steam coming off it.",
     "connections":
     {
         "northwest":"town"

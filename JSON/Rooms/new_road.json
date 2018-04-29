@@ -1,6 +1,6 @@
 {
 	"name":"The New Road",
-    "description":"text",
+    "description":"This road is broad, wide enough for two cars to pass each other, slightly raised from the edge of the road for better drainage. Cart tracks are very apperant and there is the occasional piece of damaged cart by the side of to road. The fields on either side of the road are green with young wheat near town, and further away from town the green shade changes to meadow grass, undulating with the breeze.",
     "connections":
     {
         "north":"town"
