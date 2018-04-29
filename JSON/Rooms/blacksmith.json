@@ -1,0 +1,16 @@
+{
+    "name":"Lutgher's Smithy",
+    "description":"text",
+    "connections":
+    {
+        "northwest":"town"
+    },
+    "npcs":
+    [
+        "blacksmith"
+    ],
+    "features":
+    [
+        "forge"
+    ]
+}

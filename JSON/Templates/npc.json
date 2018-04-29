@@ -1,0 +1,17 @@
+{
+    "name":"text", // name displayed in text prompts
+    "description":"text", // the text displayed when conversation is initiated with this NPC
+    "items": // this field can be left blank
+    [
+        // contains a list of items defined in the "Items" folder
+    ],
+    "topics": // this field should contain at least one value, but may be left blank
+    {
+        // contains a list of keywords and the text they trigger
+    },
+    "relations": // may be empty except for "player" key-value-pair
+    {
+        // contains a list of NPCs defined in the "NPCs" folderand this NPCs relation toward them from -128 to 127 inclusive
+        // (higher values are more friendly.) must contain an entry for the player
+    }
+}

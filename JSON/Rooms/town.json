@@ -1,0 +1,24 @@
+{
+    "name":"Oakhurst",
+    "description":"text",
+    "connections":
+    {
+        "north":"jail",
+        "northeast":"mayor",
+        "east":"general_store",
+        "southeast":"blacksmith",
+        "south":"new_road",
+        "southwest":"old_road",
+        "west":"healer",
+        "northwest":"inn"
+    },
+    "npcs":
+    [
+        "villagers",
+        "kerowyn_hucrele"
+    ],
+    "features":
+    [
+        "well"
+    ]
+}

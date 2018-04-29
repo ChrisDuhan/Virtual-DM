@@ -1,0 +1,16 @@
+{
+    "name":"General Store",
+    "description":"text",
+    "connections":
+    {
+        "west":"town"
+    },
+    "npcs":
+    [
+        "shopkeep"
+    ],
+    "features":
+    [
+        "shelves"
+    ]
+}

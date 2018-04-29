@@ -1,0 +1,24 @@
+{
+    "name":"text", // name displayed in text prompts
+    "description":"text", // the text displayed when this room is entered
+    "connections": // this field must contain at least one value
+    {
+        "direction": // valid values are cardinal directions and directions halfway between two cardinal directions
+        [
+            "room", // a room defined in the "Rooms" folder
+            "portal" // a portal defined in the "Portals" folder
+        ]
+    },
+    "features": // this field can be left blank
+    [
+        // contains a list of features defined in the "Features" folder
+    ],
+    "npcs": // this field can be left blank
+    [
+        // contains a list of NPCs defined in the "NPCs" folder
+    ],
+    "items": // this field can be left blank
+    [
+        // contains a list of items defined in the "Items" folder
+    ]
+}

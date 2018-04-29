@@ -89,7 +89,7 @@ def on_session_started(session_started_request, session):
           + ", sessionId=" + session['sessionId'])
           
     # Set the initial game state
-    attributes["room"] = 4
+    attributes["room"] = "town"
     
 
 
@@ -115,7 +115,7 @@ def on_intent(intent_request, session):
 
     # Dispatch to your skill's intent handlers
     if intent_name == "TravelIntent":
-        return get_travel_response(intent["slots"]["direction"]["value"])
+        return RoomHandler.handleTravel(intent, session)
     elif intent_name == "AMAZON.RepeatIntent":
         return get_welcome_response()
     elif intent_name == "AMAZON.HelpIntent":
