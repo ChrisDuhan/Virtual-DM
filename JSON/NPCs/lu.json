@@ -1,5 +1,5 @@
 {
-	"description": ,
+	"description": "",
 	"general": {
 		"name": "Lu",
 		"race": "Human",
@@ -10,11 +10,11 @@
 		"rumors": {},
 		"topics": {
 			"<keyword>": "text"
-		}
+		},
 		"items": [],
 		"relations": {
-			"player": <value>,
-			"<an npc>": <value>
+			"player": "<value>",
+			"<an npc>": "<value>"
 		}
 	},
 	"special": {}

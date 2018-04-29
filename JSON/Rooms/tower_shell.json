@@ -23,7 +23,7 @@
 			"locked": 0,
 			"trapped": 1
 		},
-		"NW": {
+		"SW": {
 			"connected Room": null,
 			"appearance": "open",
 			"locked": 0,

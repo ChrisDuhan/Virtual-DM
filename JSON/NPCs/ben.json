@@ -1,20 +1,20 @@
 {
-	"description": ,
+	"description": "",
 	"general": {
 		"name": "Ben",
 		"race": "Human",
 		"gender": "Male",
-		"job": "Deputy"
+		"job": "Deputy",
 		"buy": {},
 		"sell": {},
 		"rumors": {},
 		"topics": {
 			"<keyword>": "text"
-		}
+		},
 		"items": [],
 		"relations": {
-			"player": <value>,
-			"<an npc>": <value>
+			"player": "<value>",
+			"<an npc>": "<value>"
 		}
 	},
 	"special": {}
