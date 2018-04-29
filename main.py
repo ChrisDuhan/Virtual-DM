@@ -30,7 +30,7 @@ def get_welcome_response():
     # that is not understood, they will be prompted again with this text.
     reprompt_text = "Where would you like to go?"
     should_end_session = False
-    return ResponseBuilder.build_response(ResponseBuilder.build_speechlet_response(card_title, speech_output,
+    return ResponseBuilder.buildResponse(ResponseBuilder.buildSpeechletResponse(card_title, speech_output,
         reprompt_text, should_end_session), attributes)
         
 
@@ -55,7 +55,7 @@ def get_travel_response(target):
         # that is not understood, they will be prompted again with this text.
         reprompt_text = "Where would you like to go?"
         should_end_session = False
-        return ResponseBuilder.build_response(ResponseBuilder.build_speechlet_response(card_title,
+        return ResponseBuilder.buildResponse(ResponseBuilder.buildSpeechletResponse(card_title,
             speech_output, None, should_end_session), attributes)
     
     card_title = "Moving"        
@@ -66,7 +66,7 @@ def get_travel_response(target):
     # that is not understood, they will be prompted again with this text.
     reprompt_text = "Where would you like to go?"
     should_end_session = False
-    return ResponseBuilder.build_response(ResponseBuilder.build_speechlet_response(card_title,
+    return ResponseBuilder.buildResponse(ResponseBuilder.buildSpeechletResponse(card_title,
         speech_output, None, should_end_session), attributes)
     
 
@@ -76,7 +76,7 @@ def handle_session_end_request():
                     "Have a nice day! "
     # Setting this to true ends the session and exits the skill.
     should_end_session = True
-    return ResponseBuilder.build_response(ResponseBuilder.build_speechlet_response(
+    return ResponseBuilder.buildResponse(ResponseBuilder.buildSpeechletResponse(
         card_title, speech_output, None, should_end_session), attributes)
 
 
