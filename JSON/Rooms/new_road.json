@@ -1,7 +1,16 @@
 {
-	"description": "TODO",
-	"interactables": {},
-	"features": {},
-	"npcs": {},
-	"items": {}
+	"name":"The New Road",
+    "description":"text",
+    "connections":
+    {
+        "north":"town"
+    },
+    "npcs":
+    [
+        
+    ],
+    "features":
+    [
+        
+    ]
 }

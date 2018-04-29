@@ -1,6 +1,6 @@
 {
     "name":"Corkie's Concoctions",
-    "description":"text",
+    "description":"A rapid series of smells, blending together in an almost familier scent is the first thing you notice upon entering the bright building. The front window is open and you can see the store is well stocked with many herbs and bottles of varying colors. Large baskets of common herbs are arranged in rows on the floor or rough hewn timbers. The shelves against the walls hold either bundles or bags of various herbs or the occasional mineral. Other bundles in various stages of drying hang by twine from the ceiling. Behind the counter there is a wooden hutch with glass panned doors, within you can see small bottles, many sealed with wax.",
     "connections":
     {
         "east":"town"

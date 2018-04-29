@@ -1,7 +1,16 @@
 {
-	"description": "TODO",
-	"interactables": {},
-	"features": {},
-	"npcs": {},
-	"items": {}
+	"name":"The Old Road",
+    "description":"text",
+    "connections":
+    {
+        "northeast":"town"
+    },
+    "npcs":
+    [
+        
+    ],
+    "features":
+    [
+        
+    ]
 }

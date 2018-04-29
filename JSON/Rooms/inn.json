@@ -1,6 +1,6 @@
 {
     "name":"Ol' Boar Inn",
-    "description":"text",
+    "description":"The door is open as you approach, and you can hear a good natured murmur issuing forth. Crossing the threshold provides a significant change in the light levels, while still easy to see it if far for the bright sunlight that abounds outside right now. The light is pouring in from near the peak of the two story tall roof, where a row of windows runs on either side of the apex. There are a handfull of patrons imbibing their drink and having the midday meal. Some scraps of conversation float your way, along with hearty chuckles, but none are of any apperant consequence to you. The interior of the building is a predominantly timber affair, though stonework can be seen making up the fireplace, the floor behind the bar and the lowest section of the buildings upright supports.",
     "connections":
     {
         "southeast":"town"
