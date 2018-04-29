@@ -1,6 +1,10 @@
 {
 	"description": ,
 	"general": {
+		"name": "Rurik Lutgehr",
+		"race": "Dwarf",
+		"gender": "Male",
+		"job": "Blacksmith",
 		"buy": {},
 		"sell": {},
 		"rumors": {}

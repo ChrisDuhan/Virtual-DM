@@ -14,73 +14,33 @@
 			}, 
 			"people": {
 				"Vurnor Leng": {
-					"race": "Human",
-					"gender": "Male",
-					"role": "Mayor",
-					"appearance": "",
-					"file": ""
+					"file": "./NPCs/vurnor_leng.json"
 				}, 
 				"Kerowyn Hucrele": {
-					"race": "Human",
-					"gender": "Female",
-					"role": "Merchant",
-					"appearance": "",
 					"file": "./NPCs/kerowyn_hucrele.json"
 				}, 
 				"Dem 'Corkie'": {
-					"race": "Gnome",
-					"gender": "Female",
-					"role": "Healer",
-					"appearance": "",
 					"file": "./NPCs/dem_corkie.json"
 				}, 
 				"Felosial": {
-					"race": "Half-elf",
-					"gender": "Female",
-					"role": "Constable",
-					"appearance": "",
 					"file": "./NPCs/felosial.json"
 				}, 
 				"Ben": {
-					"race": "Human",
-					"gender": "Male",
-					"role": "Deputy",
-					"appearance": "",
-					"file": ""
+					"file": "./NPCs/ben.json"
 				}, 
 				"Lu": {
-					"race": "Human",
-					"gender": "Female",
-					"role": "Deputy",
-					"appearance": "",
-					"file": ""
+					"file": "./NPCs/lu.json"
 				}, 
 				"Jym": {
-					"race": "Human",
-					"gender": "Male",
-					"role": "Deputy",
-					"appearance": "",
-					"file": ""
+					"file": "./NPCs/jym.json"
 				}, 
 				"Roda": {
-					"race": "Human",
-					"gender": "Female",
-					"role": "Deputy",
-					"appearance": "",
-					"file": ""
+					"file": "./NPCs/roda.json"
 				}, 
 				"Rurik Lutgehr": {
-					"race": "Dwarf",
-					"gender": "Male",
-					"role": "Blacksmith",
-					"appearance": "",
-					"file": ""
+					"file": "./NPCs/rurik_lutgehr.json"
 				}, 
 				"Garon": {
-					"race": "Human",
-					"gender": "Male",
-					"role": "Barkeep",
-					"appearance": "",
 					"file": "./NPCs/garon.json"
 				}
 			}, 

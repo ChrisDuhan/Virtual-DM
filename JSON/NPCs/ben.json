@@ -1,6 +1,10 @@
 {
 	"description": ,
 	"general": {
+		"name": "Ben",
+		"race": "Human",
+		"gender": "Male",
+		"job": "Deputy"
 		"buy": {},
 		"sell": {},
 		"rumors": {}

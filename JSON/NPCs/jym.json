@@ -1,6 +1,10 @@
 {
 	"description": ,
 	"general": {
+		"name": "Jym",
+		"race": "Human",
+		"gender": "Male",
+		"job": "Deputy",
 		"buy": {},
 		"sell": {},
 		"rumors": {}

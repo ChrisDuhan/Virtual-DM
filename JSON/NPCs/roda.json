@@ -1,6 +1,10 @@
 {
 	"description": ,
 	"general": {
+		"name": "Roda",
+		"race": "Human",
+		"gender": "Female",
+		"job": "Deputy",
 		"buy": {},
 		"sell": {},
 		"rumors": {}

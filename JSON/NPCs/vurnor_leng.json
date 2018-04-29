@@ -1,6 +1,10 @@
 {
 	"description": ,
 	"general": {
+		"name": "Vurnor Leng",
+		"race": "Human",
+		"gender": "Male",
+		"job": "Mayor",
 		"buy": {},
 		"sell": {},
 		"rumors": {}

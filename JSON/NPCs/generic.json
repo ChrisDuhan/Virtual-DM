@@ -2,6 +2,9 @@
 	"description": ,
 	"general": {
 		"name": "",
+		"race": "",
+		"gender": "",
+		"job": "",
 		"buy": {},
 		"sell": {},
 		"rumors": {}

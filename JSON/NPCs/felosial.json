@@ -1,7 +1,10 @@
 {
 	"description": ,
 	"general": {
-		"name": "Felosial, I'm the town constable.",
+		"name": "Felosial",
+		"race": "Half-elf",
+		"gender": "Female",
+		"job": "Constable",
 		"buy": {},
 		"sell": {},
 		"rumors": {}

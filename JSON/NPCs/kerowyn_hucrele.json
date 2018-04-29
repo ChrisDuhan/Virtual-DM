@@ -1,7 +1,10 @@
 {
 	"description": "A short but lithe looking young woman, perhaps thirty, with a sharp smile and bright eyes, wearing a yellow tunic under a half apron. Her sandy hair is pulled back from her face into a braid. As you approach she beams her smile at you and waits expectantly, placing the parchment she had been writing on under the counter.",
 	"general": {
-		"name": "I'm Kerowyn, welcome to my shop."
+		"name": "Kerowyn Hucrele",
+		"race": "Human",
+		"gender": "Female",
+		"job": "Merchant",
 		"buy": {},
 		"sell": {},
 		"rumors": {}
