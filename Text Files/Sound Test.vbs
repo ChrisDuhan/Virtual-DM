@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak"A sandy ledge overlooks a subterranean gulf of darkness to the west. The ledge is wide but rough. Sand, rocky debris, and the bones of small animals cover it. A roughly hewn stairwell zigs and zags down the side of the ledge, descending into darkness."

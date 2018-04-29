@@ -1,0 +1,114 @@
+{
+	"locations": [
+		"Oakhurst": {
+			"buildings": [
+				"Tavern": {"name": "The Apple Blossom", "type": "Bar"}, 
+				"Inn": {"name": "Ol' Boar Inn", "type": "Inn"}, 
+				"General Store": {"name": "Kerowyn's", "type": "Merchant"}, 
+				"Jail": {"name": "Gaol", "type": "Jail"}, 
+				"Blacksmith": {"name": "Rurik's Hammer", "type": "Merchant"}, 
+				"Mayors House": {"name": "Town Hall", "type": "House"}, 
+				"Healers House": {"name": "Corkie's Concoctions", "type": "Merchant"}, 
+				"Merchants House": {"name": "Hucrele Home", "type": "House"}, 
+				"Well": {"name": "Well", "type": "Misc"}
+			], 
+			"people": [
+				"Vurnor Leng": {
+					"race": "Human",
+					"gender": "Male",
+					"role": "Mayor",
+					"appearance": ""
+				}, 
+				"Kerowyn Hucrele": {
+					"race": "Human",
+					"gender": "Female",
+					"role": "Merchant",
+					"appearance": ""
+				}, 
+				"Dem 'Corkie'": {
+					"race": "Gnome",
+					"gender": "Female",
+					"role": "Healer",
+					"appearance": ""
+				}, 
+				"Felosial": {
+					"race": "Half-elf",
+					"gender": "Female",
+					"role": "Constable",
+					"appearance": ""
+				}, 
+				"Ben": {
+					"race": "Human",
+					"gender": "Male",
+					"role": "Deputy",
+					"appearance": ""
+				}, 
+				"Lu": {
+					"race": "Human",
+					"gender": "Female",
+					"role": "Deputy",
+					"appearance": ""
+				}, 
+				"Jym": {
+					"race": "Human",
+					"gender": "Male",
+					"role": "Deputy",
+					"appearance": ""
+				}, 
+				"Roda": {
+					"race": "Human",
+					"gender": "Female",
+					"role": "Deputy",
+					"appearance": ""
+				}, 
+				"Rurik Lutgehr": {
+					"race": "Dwarf",
+					"gender": "Male",
+					"role": "Blacksmith",
+					"appearance": ""
+				}, 
+				"Garon": {
+					"race": "Human",
+					"gender": "Male",
+					"role": "Barkeep",
+					"appearance": ""
+				}
+			], 
+			"connectedLocations": ["Old Road", "New Road"],
+			"appearance": {},
+			"description": ""
+		}, 
+		"Old Road": {
+			"connectedLocations": ["Oakhurst", "Dark Ravine"],
+			"appearance": {},
+			"description": ""
+		},
+		"New Road": {
+			"connectedLocations": ["Oakhurst"],
+			"appearance": {},
+			"description": ""
+		},
+		"Dark Ravine": {
+			"connectedLocations": ["Old Road", "Sunless Citadel"],
+			"appearance": {},
+			"description": "./darkRavine.txt"
+		},
+		"Sunless Citadel": {
+			"buildings": [
+				"Sunless Citadel": {
+					"rooms": [
+						"Ledge": {"connectedLocations": ["Dark Ravine", "Switchback Stairs"], "description": "./ledge.txt"},
+						"Switchback Stairs": {"connectedLocations": ["Ledge", "Crumbled Courtyard"], "description": "./switchbackStairs.txt"}, 
+						"Crumbled Courtyard": {"connectedLocations": ["Switchback Stairs", "Tower Shell"], "description": "./crumbledCourtyard.txt"},
+						"Tower Shell": {"connectedLocations": ["Crumbled Courtyard", null, null, null], "description": "./towerShell.txt"}
+					],
+					"appearance": {}
+				}
+			],
+			"connectedLocations": ["Dark Ravine"],
+			"appearance": {},
+			"description": ""
+			
+		}
+	]
+}
