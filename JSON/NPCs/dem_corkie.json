@@ -1,0 +1,10 @@
+{
+	"description": "You don't see the proprietor at first, but a moment after entering the shop you see a gnomish woman round the counter carrying a basket of many herbs bundled up with twine. She gives you a curt nod and says, 'Be with you in a moment'. She is getting old, appearing to be in the late 60's though that could be 200 or more for a gnome. Her light brown hair is darted through with gray and i pulled into a neat, tight bun on her head. She wears small spectacles, tied around her neck with a woven string of bright red and green. She sets her basket down next to a rack and begins to walk back to the counter. 'What is it you're looking for fine travelers?', she asks as she passes you.",
+	"general": {
+		"name": "You can call me Corkie traveler.",
+		"buy": {},
+		"sell": {},
+		"rumors": {}
+	},
+	"special": {}
+}

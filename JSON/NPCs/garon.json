@@ -1,0 +1,10 @@
+{
+	"description": "A heavyset man who appears to be in his mid fifties. His hair is red and short but his red mutton chops are wild. He is wearing a faded, well worn green shirt with the sleeves rolled up under his slightly stained apron. As you approach him at the bar, he is polishing a mug with and old rag. 'Good day to you travelers, what can I do for you?'",
+	"general": {
+		"name": "My name is Garon, good masters.",
+		"buy": {"game": "1silver"},
+		"sell": {"room": "3silver", "ale": "2copper", "dinner": "5copper"},
+		"rumors": {}
+	},
+	"special": {}
+}
