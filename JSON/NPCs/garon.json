@@ -7,7 +7,15 @@
 		"job": "Barkeep",
 		"buy": {"game": "1silver"},
 		"sell": {"room": "3silver", "ale": "2copper", "dinner": "5copper"},
-		"rumors": {}
+		"rumors": {},
+		"topics": {
+			"<keyword>": "text"
+		}
+		"items": [],
+		"relations": {
+			"player": <value>,
+			"<an npc>": <value>
+		}
 	},
 	"special": {}
 }

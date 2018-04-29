@@ -7,7 +7,15 @@
 		"job": "Deputy",
 		"buy": {},
 		"sell": {},
-		"rumors": {}
+		"rumors": {},
+		"topics": {
+			"<keyword>": "text"
+		}
+		"items": [],
+		"relations": {
+			"player": <value>,
+			"<an npc>": <value>
+		}
 	},
 	"special": {}
 }
